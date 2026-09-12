@@ -1,4 +1,4 @@
-# f26-devtools-workshop
+# Alyssa Szeto
 
 use me for prs :)
 
