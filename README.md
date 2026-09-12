@@ -1,4 +1,4 @@
-# s26-devtools-workshop
+# f26-devtools-workshop
 
 use me for prs :)
 
